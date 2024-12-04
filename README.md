@@ -2,7 +2,8 @@
 
 ## 🚀 About Me
 - 🎓 Pursuing a **Master's in Bioinformatics** at the **University of Crete**.
-- 🧬 Undergraduate degree in **Biochemistry and Biotechnology** from the **University of Thessaly**.
+- 🎓 Bachelor's degree in Biochemistry and Biotechnology from the University of Thessaly.
+- 🧬 Currently working on my thesis, which focuses on using generative deep learning models for applications in biomedical signal analysis.
 - 🔬 Conducting research in **deep learning**, **AI**, and **machine learning** for protein design, protein interaction research, drug adaptation studies, and biomedical image processing.
 - 📊 Skilled in applying data analysis and computational biology to solve complex biological challenges.
 - 🌟 Open to collaborating on innovative **bioinformatics**, **data science**, and **machine learning** projects.
