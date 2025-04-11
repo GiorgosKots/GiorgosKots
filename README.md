@@ -6,7 +6,7 @@
 - 🧬 Currently working on my thesis, which focuses on using generative deep learning models for applications in biomedical signal analysis.
 - 🔬 Conducting research in **deep learning**, **AI**, and **machine learning** for protein design, protein interaction research, drug adaptation studies, and biomedical image processing.
 - 📊 Skilled in applying data analysis and computational biology to solve complex biological challenges.
-- 🌟 Open to collaborating on innovative **bioinformatics**, **data science**, and **machine learning** projects.
+- 🌟 Open to collaborating on innovative **bioinformatics**, **data science**, **deep learning** and **machine learning** projects.
 - 💻 All of my projects are available [here](https://github.com/GiorgosKots?tab=repositories) 
 ## 🌐 Connect with Me
 [![LinkedIn](www.linkedin.com/in/georgios-kotsopoulos-6b1724208)
