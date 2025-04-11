@@ -7,7 +7,7 @@
 - 🔬 Conducting research in **deep learning**, **AI**, and **machine learning** for protein design, protein interaction research, drug adaptation studies, and biomedical image processing.
 - 📊 Skilled in applying data analysis and computational biology to solve complex biological challenges.
 - 🌟 Open to collaborating on innovative **bioinformatics**, **data science**, and **machine learning** projects.
-- 💻 All of my projects are available [here](https://github.com/GiorgosKots/Bioinformatics-Master-s-Projects/tree/main) 
+- 💻 All of my projects are available [here](https://github.com/GiorgosKots?tab=repositories) 
 ## 🌐 Connect with Me
 [![LinkedIn](www.linkedin.com/in/georgios-kotsopoulos-6b1724208)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kotsgeorge999@gmail.com)
