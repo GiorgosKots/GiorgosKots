@@ -9,7 +9,7 @@
 - 🌟 Open to collaborating on innovative **bioinformatics**, **data science**, **deep learning** and **machine learning** projects.
 - 💻 All of my projects are available [here](https://github.com/GiorgosKots?tab=repositories) 
 ## 🌐 Connect with Me
-[![LinkedIn](www.linkedin.com/in/georgios-kotsopoulos-6b1724208)
+[![LinkedIn](https://www.linkedin.com/in/georgios-kotsopoulos-6b1724208)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kotsgeorge999@gmail.com)
 
 ## 🛠️ Tech Stack
