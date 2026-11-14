@@ -2,6 +2,7 @@
 
 ## 🚀 About Me
 🎓 MSc in Bioinformatics from the University of Crete.
+
 🎓 BSc in Biochemistry and Biotechnology from the University of Thessaly.
 
 I'm passionate about developing intelligent, data-driven solutions at the intersection of Artificial Intelligence, Machine Learning, Data Engineering, and Computational Biology.
