@@ -1,13 +1,23 @@
 ## Hi there, I'm Giorgos Kotsopoulos 👋
 
 ## 🚀 About Me
-- 🎓 Pursuing a **Master's in Bioinformatics** at the **University of Crete**.
-- 🎓 Bachelor's degree in Biochemistry and Biotechnology from the University of Thessaly.
-- 🧬 Currently working on my thesis, which focuses on using generative deep learning models for applications in biomedical signal analysis.
-- 🔬 Conducting research in **deep learning**, **AI**, and **machine learning** for protein design, protein interaction research, drug adaptation studies, and biomedical image processing.
-- 📊 Skilled in applying data analysis and computational biology to solve complex biological challenges.
-- 🌟 Open to collaborating on innovative **bioinformatics**, **data science**, **deep learning** and **machine learning** projects.
-- 💻 All of my projects are available [here](https://github.com/GiorgosKots?tab=repositories) 
+🎓 MSc in Bioinformatics from the University of Crete.
+🎓 BSc in Biochemistry and Biotechnology from the University of Thessaly.
+
+I'm passionate about developing intelligent, data-driven solutions at the intersection of Artificial Intelligence, Machine Learning, Data Engineering, and Computational Biology.
+
+🧠 Interested in designing and developing AI-powered systems using machine learning, deep learning, and generative models.
+
+🔬 Research interests include:
+- Artificial Intelligence & Deep Learning
+- Generative AI and Neural Networks
+- Protein Design and Computational Biology
+- Biomedical Signal and Image Analysis
+- Machine Learning for Drug Discovery
+
+🌟 Open to research collaborations and professional opportunities in AI Engineering, Data Engineering, Machine Learning, and Computational Biology.
+
+📂 All my projects are available here.
 ## 🌐 Connect with Me
 [![LinkedIn](https://www.linkedin.com/in/georgios-kotsopoulos-6b1724208)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kotsgeorge999@gmail.com)
