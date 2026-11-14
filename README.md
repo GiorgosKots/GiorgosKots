@@ -18,7 +18,7 @@ I'm passionate about developing intelligent, data-driven solutions at the inters
 
 🌟 Open to research collaborations and professional opportunities in AI Engineering, Data Engineering, Machine Learning, and Computational Biology.
 
-📂 All my projects are available here.
+📂 All my projects are available [![here](https://github.com/GiorgosKots?tab=repositories)].
 ## 🌐 Connect with Me
 [![LinkedIn](https://www.linkedin.com/in/georgios-kotsopoulos-6b1724208)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kotsgeorge999@gmail.com)
